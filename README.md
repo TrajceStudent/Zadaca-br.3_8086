@@ -1,7 +1,6 @@
 # Zadaca-br.3_8086
 
-
-						![Screenshot (1)](    )
+![Screenshot (1)](https://github.com/TrajceStudent/Zadaca-br.3_8086/blob/main/9.1.png  )
 
 
 				
